@@ -8,3 +8,4 @@
 {"kind":"nudge","toolName":"bash","rule":"cat-read","tool":"read","ts":1789899962756}
 {"kind":"bash_guard","toolName":"bash","outcome":"prompt_allow","severity":"high","reasons":"rm (file deletion); recursive delete (-r/-R)","ts":1789899997191}
 {"kind":"enrich","matched":false,"toolName":"bash","ts":1789899997358}
+{"kind":"enrich","matched":false,"toolName":"bash","ts":1789900648809}
